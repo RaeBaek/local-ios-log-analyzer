@@ -1,0 +1,4 @@
+10:01:00.000 [INFO] [DetailViewModel] Loading movie detail
+10:01:00.210 [INFO] [HTTPClient] GET /movies/42 completed HTTP 200
+10:01:00.212 [ERROR] [MovieRepository] DecodingError.typeMismatch: expected String at movie.title, found number
+10:01:00.215 [INFO] [DetailViewModel] Error state displayed

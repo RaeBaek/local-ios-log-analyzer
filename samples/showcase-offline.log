@@ -1,0 +1,10 @@
+GET /movie/popular started
+Connection 1: received failure notification
+Connection 1: failed to connect 1:50, reason -1
+GET /movie/popular failed: URLError code -1009
+GET /person/popular started
+Connection 2: received failure notification
+GET /person/popular failed: URLError code -1009
+GET /tv/popular started
+Connection 3: received failure notification
+GET /tv/popular failed: URLError code -1009

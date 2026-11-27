@@ -1,0 +1,9 @@
+GET /movie/popular started
+non-launching port is incompatible with service identifier "com.apple.PointerUI.pointeruid.default-service"
+cannot add handler to 0 from 0 - dropping
+nw_connection_copy_protocol_metadata_internal_block_invoke [C3] Client called nw_connection_copy_protocol_metadata_internal on unconnected nw_connection
+GET /movie/popular succeeded
+GET /person/popular started
+GET /person/popular succeeded
+GET /tv/popular started
+GET /tv/popular succeeded

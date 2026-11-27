@@ -1,0 +1,4 @@
+10:02:00.000 [INFO] [SearchViewModel] Search submitted
+10:02:00.190 [INFO] [HTTPClient] GET /search completed HTTP 200
+10:02:00.195 [INFO] [SearchRepository] Decoded results: 0
+10:02:00.200 [INFO] [SearchViewModel] Empty state displayed
